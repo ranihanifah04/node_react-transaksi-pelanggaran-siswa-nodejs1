@@ -1,0 +1,36 @@
+{
+  "name": "node_react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ranihanifah04/node_react_1.git"
+  },
+  "author": "rani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ranihanifah04/node_react_1/issues"
+  },
+  "homepage": "https://github.com/ranihanifah04/node_react_1#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "body-parser": "^1.19.0",
+    "bootstrap": "^4.6.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "md5": "^2.3.0",
+    "moment": "^2.29.1",
+    "mysql": "^2.18.1",
+    "react-bootstrap": "^1.4.3",
+    "react-router-dom": "^5.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
